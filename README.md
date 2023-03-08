@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MissKavinya
+- 👋 Hi, I’m @Mary Nzoka
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, Tableau and SQL
 - 💞️ I’m looking to collaborate on ...
